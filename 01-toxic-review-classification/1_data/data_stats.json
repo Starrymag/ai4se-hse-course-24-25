@@ -1,0 +1,13 @@
+{
+  "before_cleaning": {
+    "total_records": 19651,
+    "missing_values": 4,
+    "duplicates": 6746
+  },
+  "after_cleaning": {
+    "total_records": 12904,
+    "toxic_count": 2522,
+    "non_toxic_count": 10382,
+    "toxic_percent": 19.54432734035958
+  }
+}
